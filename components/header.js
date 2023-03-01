@@ -1,4 +1,4 @@
-import { ImFacebook, ImTwitter, ImYoutube } from "react-icons/im";
+import { ImFacebook, ImInstagram, ImTwitter, ImYoutube } from "react-icons/im";
 import Link from 'next/link'
 
 export default function header() {
@@ -15,9 +15,9 @@ export default function header() {
             </div>
             <div className="w-96 order-3 flex justify-center">
                 <div className="flex gap-6">
-                    <Link href={"https://www.freshspar.com"}><a><ImFacebook color="#888888" /></a></Link>
-                    <Link href={"/"}><a><ImTwitter color="#888888" /></a></Link>                    
-                    <Link href={"/"}><a><ImYoutube color="#888888" /></a></Link>
+                    <Link href={"https://www.facebook.com/FreshSpar"}><a><ImFacebook color="#888888" /></a></Link>
+                    <Link href={"https://twitter.com/FreshSpar"}><a><ImTwitter color="#888888" /></a></Link>                    
+                    <Link href={"https://www.instagram.com/fresh_spar/"}><a><ImInstagram color="#888888" /></a></Link>
                 </div>
             </div>
         </div>
