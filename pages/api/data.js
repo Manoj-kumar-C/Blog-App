@@ -187,7 +187,7 @@ A full sleep cycle starts out in light sleep and progresses through to deep slee
         {
             id: 3,
             title: "5 of the best exercises you can ever do",
-            subtitle: "Just having to walk by treadmills, stationary bikes, and weight machines can be enough to make you head straight back home to the couch. Yet some of the best physical activities for your body don't require the gym or ask you to get fit enough to run a marathon. These "workouts" can do wonders for your health. They'll help keep your weight under control, improve your balance and range of motion, strengthen your bones, protect your joints, prevent bladder control problems, and even ward off memory loss.",
+            subtitle: "Just having to walk by treadmills, stationary bikes, and weight machines can be enough to make you head straight back home to the couch. Yet some of the best physical activities for your body don't require the gym or ask you to get fit enough to run a marathon. These workouts can do wonders for your health. They'll help keep your weight under control, improve your balance and range of motion, strengthen your bones, protect your joints, prevent bladder control problems, and even ward off memory loss.",
             category: "Health",
             img : "/images/articles/posts/img3.png",
             description: `
