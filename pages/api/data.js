@@ -10,10 +10,10 @@ export default {
             “An apple a day keeps the doctor away,” or so the saying goes.Healthcare professionals know that fruit is a highly nutritious, delicious, and convenient addition to any diet. With more than 2,000 varieties of fruit available, you may wonder which ones you should pick.
             Each type of fruit brings its own unique set of nutrients and benefits to the table. The key is to eat fruits of various colors, as each color provides adifferent set of healthy nutrients
             `,
-            published: "Jun 3,  2022",
+            published: "Jun 3,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -38,7 +38,7 @@ Activities that could cause you to experience direct trauma to the abdomen, such
 Hot yoga or hot Pilates
 If you do exercise at a high altitude, make sure you know the signs and symptoms of altitude sickness, such as headache, fatigue and nausea. If you experience symptoms of altitude sickness, return to a lower altitude as soon as possible and seek medical care.
             `,
-            published: "Jun 5,  2022",
+            published: "Jun 5,  2023",
             author: {
                 name: "Sandhya barathi",
                 img: "/images/author/sandhya.png",
@@ -58,11 +58,11 @@ If you do exercise at a high altitude, make sure you know the signs and symptoms
 
 With that in mind, here are some general safety tips to consider when exercising during pregnancy, according to the ACOG.
             `,
-            published: "Jun 7,  2022",
+            published: "Jun 7,  2023",
             author: {
-                name: "Hari",
-                img: "/images/author/hari.jpeg",
-                designation : "CEO and Founder"
+                name: "subiksha",
+                img: "/images/author/subiksha.jpeg",
+                designation : "Front End Dev"
             }
         },
         {
@@ -100,11 +100,11 @@ If you are looking for a slightly less intense stair climbing exercise with vari
 
 You should start with running up a flight of stairs while looking straight and keeping your shoulders back. When you are on top of the stairs, you should pause and walk down the stairs slowly. This counts as a single set, and you must complete at least 3-5 sets, for it to be effective.
             `,
-            published: "Jun 10,  2022",
+            published: "Jun 10,  2023",
             author: {
                 name: "Harishma",
                 img: "/images/author/harishma.jpeg",
-                designation : "CEO and Founder"
+                designation : "Cloud Computing"
             }
         },
         {
@@ -120,10 +120,10 @@ It is essentially responsible for breaking down foods and liquids into chemical 
 
 Our bodily functions depend heavily on food, which defines our internal health. A properly working digestive system plays a significant role in absorbing nutrients in the bloodstream, which are the body’s building blocks. Hence, maintaining an equilibrium of nutrients is essential for the proper functioning of the body.
             `,
-            published: "Jun 14,  2022",
+            published: "Jun 14,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         }
@@ -138,10 +138,10 @@ Our bodily functions depend heavily on food, which defines our internal health. 
             description: `
             Health and wellness has become a hot topic in recent years. From contemporary yoga classes to trendy new diets, everyone seems to be on the hunt for the next big thing. But you don’t need a fancy fitness membership or a personal chef to be healthy; sometimes the answer can be found with a simple click of your mouse.
             `,
-            published: "Jun 3,  2022",
+            published: "Jun 3,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -177,11 +177,11 @@ Sleep is not just one long, solid state. Healthy sleep consists of several stage
 
 A full sleep cycle starts out in light sleep and progresses through to deep sleep, then reverses back from deep to light sleep before entering REM. You cycle through each of these stages four to six times during the night, and this cycling is tremendously important, from both a biological and psychological perspective.
             `,
-            published: "Jun 5,  2022",
+            published: "Jun 5,  2023",
             author: {
                 name: "Harishma",
                 img: "/images/author/harishma.jpeg",
-                designation : "CEO and Founder"
+                designation : "Cloud Computing"
             }
         },
         {
@@ -219,10 +219,10 @@ To do a Kegel exercise correctly, squeeze the muscles you would use to prevent y
 
 
             `,
-            published: "Jun 7,  2022",
+            published: "Jun 7,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -245,10 +245,10 @@ This nutrient-dense low-calorie fruit is the perfect pick to boost your immunity
 5. Guava
 This green, crunchy fruit aids better bowel movement and promotes digestion. The protein and good fibres in this fruit take a little long to digest, which helps in keeping you full for a longer duration of time. You can munch on it before your workout session as well
             `,
-            published: "Jun 10,  2022",
+            published: "Jun 10,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -276,11 +276,11 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             A small river named Duden flows by their place and supplies it with the necessary regelialia. 
             It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
             `,
-            published: "Jun 14,  2022",
+            published: "Jun 14,  2023",
             author: {
                 name: "Harishma",
                 img: "/images/author/harishma.jpeg",
-                designation : "CEO and Founder"
+                designation : "Cloud computing "
             }
         },
         {
@@ -307,10 +307,10 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             A small river named Duden flows by their place and supplies it with the necessary regelialia. 
             It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
             `,
-            published: "Jun 5,  2022",
+            published: "Jun 5,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -326,7 +326,7 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
             `,
-            published: "Jun 3,  2022",
+            published: "Jun 3,  2023",
             author: {
                 name: "Sandhya barathi",
                 img: "/images/author/sandhya.png",
@@ -343,10 +343,10 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
             `,
-            published: "Jun 5,  2022",
+            published: "Jun 5,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         },
@@ -360,10 +360,10 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
             `,
-            published: "Jun 7,  2022",
+            published: "Jun 7,  2023",
             author: {
-                name: "hari",
-                img: "/images/author/hari.jpeg",
+                name: "subiksha",
+                img: "/images/author/subiksha.jpeg",
                 designation : "CEO and Founder"
             }
         },
@@ -377,7 +377,7 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
             `,
-            published: "Jun 10,  2022",
+            published: "Jun 10,  2023",
             author: {
                 name: "Sandhya barathi",
                 img: "/images/author/sandhya.png",
@@ -394,10 +394,10 @@ This green, crunchy fruit aids better bowel movement and promotes digestion. The
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
             `,
-            published: "Jun 14,  2022",
+            published: "Jun 14,  2023",
             author: {
-                name: "Manojkumar C",
-                img: "/images/author/manoj.png",
+                name: "Sandhya Barathi ",
+                img: "/images/author/sandhya.png",
                 designation : "CEO and Founder"
             }
         }

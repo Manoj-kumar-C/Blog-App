@@ -21,7 +21,7 @@ export default function footer() {
                     <Link href={"https://www.instagram.com/fresh_spar/"}><a><ImInstagram color="#888888" /></a></Link>
               </div>
 
-              <p className="py-5 text-gray-400">Copyright ©2022 All rights reserved | Developed by Fresh Spar Technologies .</p>
+              <p className="py-5 text-gray-400">Copyright ©2023 All rights reserved | Developed by Fresh Spar Technologies .</p>
               <p className="text-gray-400 text-center">Terms & Condition</p>
           </div>
       </div>
