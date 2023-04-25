@@ -2,14 +2,106 @@ export default {
     Trending : [
         {
             id: 1,
-            title: "Healthy Fruits That Are Super Nutritious",
-            subtitle: "Health and wellness has become a hot topic in recent years. From contemporary yoga classes to trendy new diets, everyone seems to be on the hunt for the next big thing. But you don’t need a fancy fitness membership or a personal chef to be healthy; sometimes the answer can be found with a simple click of your mouse.",
+            title: "15 Early Signs of Pregnancy",
+            subtitle: "Think you might be expecting? From sore breasts to bloating to food cravings, here are the most common early pregnancy symptoms.",
             category: "Health",
             img : "/images/img1.jpg",
             description: `
-            “An apple a day keeps the doctor away,” or so the saying goes.Healthcare professionals know that fruit is a highly nutritious, delicious, and convenient addition to any diet. With more than 2,000 varieties of fruit available, you may wonder which ones you should pick.
-            Each type of fruit brings its own unique set of nutrients and benefits to the table. The key is to eat fruits of various colors, as each color provides adifferent set of healthy nutrients
-            `,
+            When you’re trying to conceive, any slight new symptom can get your heart pounding. Waiting to see if two pink lines are in store for you this month can be agony, so it’s hard not to read into every twinge, cramp and extra trip to the bathroom. But what are the first signs of pregnancy you should really be on the lookout for? Will you really start craving strange food combinations? And what about morning sickness? Does every woman experience the same pregnancy symptoms?
+
+Here, with the help of medical experts, we break down the most common early signs of pregnancy, why they happen and what you can do to ease any ensuing discomfort. (Because let’s be honest, the symptoms of pregnancy don’t always feel the greatest.)
+
+When Do Pregnancy Symptoms Start?
+There’s no hard and fast rule for when early pregnancy symptoms kick in. Some women may begin noticing the first early signs of pregnancy a week or two after conception, while others will start to feel symptoms closer to four or five weeks after, when your period is conspicuously late, or even farther into pregnancy. According to a study published in the Journal of Clinical Epidemiology, most women (59 percent) experienced an onset of pregnancy symptoms by their fifth or sixth week, while 71 percent reported symptoms by the end of week six and 89 percent by week eight.
+
+Remember, each woman is on her own unique path to pregnancy, so symptoms and timing can vary. Whether you start to sense early symptoms of pregnancy immediately or later in pregnancy, don’t fret. “All women are different and don’t experience the same symptoms of early pregnancy,” says Michele Justice, MD, an ob-gyn at Inova Loudoun Hospital in Leesburg, Virginia. “Also, her second pregnancy can be different from her first.” And of course, just because you experience something that could be chalked up as a sign of pregnancy, it’s never a guarantee there’s a baby on board. If you think you might be pregnant, Justice says, your best bet is to take a pregnancy test.
+
+Pregnancy symptoms in this article:
+Sore breasts
+Darkening areolas
+Cramping
+Spotting
+High basal body temperature
+Fatigue
+Frequent urination
+Missed period
+Morning sickness
+Heightened sense of smell
+Food cravings
+Food aversions
+Bloating
+Constipation
+Additional symptoms
+
+1. Sore Breasts
+
+Are your boobs killing you? Do they feel tender and swollen? If so, it’s possible you’ve conceived this cycle. Sore breasts are often among the first early symptoms of pregnancy that women experience, which means you can also expect sore nipples in early pregnancy. You may start noticing differences in the way your breasts look, and it’s not uncommon for them to feel heavy and swollen. This is an early sign that your body is gearing up to start making milk.
+
+Unfortunately, a lot of women experience soreness as a normal part of their monthly menstrual cycle, so it can be hard to tell the difference between the typical breast tenderness before your period vs an early pregnancy sign. But there’s one key difference: In pregnancy, the tenderness doesn’t go away like it normally does with PMS, Justice says. Instead, the painful, tingly sensations tend to get worse as time passes, often leveling off around the end of the first trimester.
+Why does it happen?
+
+During early pregnancy, levels of estrogen and progesterone hormones spike, which causes increased blood flow to your breasts. These hormones are also why some women experience breast tenderness around the time of ovulation and as part of PMS—but in that case, the hormones begin to plummet as you get closer to the start of your period, and the breast pain subsides. If you’ve conceived, your hormone levels will rise rather than fall and your breasts will become increasingly tender.
+Is it common?
+
+Don’t worry, you’re not the only one dealing with tender breasts and sore nipples in early pregnancy—it’s one of the most common early symptoms of pregnancy. For many women it lasts just a week or so, but others experience some level of breast tenderness for their entire pregnancy. Take comfort in the fact that this pain and tenderness means your breasts are preparing to nourish baby after they’re born!
+What should you do?
+
+Get a supportive bra to ease the discomfort of this pregnancy symptom. Talk to a professional who can help you with a fitting, and be sure to leave a little extra room. Trust us, they’re going to keep growing. And don’t be afraid to use either warm or cold compresses if things get really uncomfortable—just use whichever feels right for you.
+
+2. Darkening Areolas
+
+If you’re searching for early signs of pregnancy, you may want to take a look at your areolas—aka the area around your nipples. They can start to appear darker and larger as early as one or two weeks after conception, making this one of the more noticeable early signs of pregnancy. And that’s not all—look closely and you’ll see that the veins in your breasts are more visible as well. You might also notice little bumps popping up around the edges of your areolas. They’re called Montgomery tubercles, designed to help lubricate your nipples once baby is here and ready to nurse. If you haven’t realized it yet, your breasts will undergo lots of changes during pregnancy!
+Why does it happen?
+
+Like so many early signs of pregnancy, darkening areolas and veins are likely a result of surging pregnancy hormones. Although it’s not completely understood yet what causes the darker color, the most widely accepted explanation is that estrogens and progesterone cause the pigment cells in the skin (melanocytes) to be more active.
+Is it common?
+
+Darker areolas and veins will probably be one of the first signs of pregnancy you’ll notice, and they’re both extremely common. And it doesn’t stop there: Your areolas may continue to grow and deepen in color as your pregnancy progresses. Sometimes the changes are permanent, sometimes they’re not.
+What should you do?
+
+As with so many other pregnancy symptoms, this is one that requires a grin-and-bear-it approach. The deepening color shouldn’t be a cause for concern—it’s a harmless part of the pregnancy experience. Your nipples are probably much more tender now too, especially when you’re cold or something rubs against them. Applying warm compresses and wearing a lightweight, soft cotton bra can help.
+
+3. Cramping
+
+Similar to sore breasts, cramping is among the early signs of pregnancy. The cramping shouldn’t be severe, though, so contact your doctor if you’re doubled over in pain, if you feel intense pain on only one side, or if you’re experiencing simultaneous bleeding and cramping (outside of your menstrual period, of course).
+Why does it happen?
+
+It can sometimes be difficult to distinguish between early pregnancy symptoms and signs that your period is on its way, especially when it comes to cramping. But even though they feel identical, cramps in pregnancy and period cramps are caused by different things. “The cramping that occurs during early pregnancy comes from the increased blood flow to the uterus,” Justice says. “The cramps before your period are due to increased prostaglandins that help the uterus prepare to shed its lining.”
+Is it common?
+
+Most women experience at least some cramping during their pregnancy. Just remember to contact your doctor if you’re worried or if it becomes severe.
+What should you do?
+
+If you’re having cramps, don’t panic. Many women immediately fear a miscarriage, but according to Kimberly Harney, MD, a clinical associate professor of obstetrics and gynecology and maternal fetal medicine at the California-based Lucile Packard Children’s Hospital Stanford, “mild cramping in the pelvis that’s symmetrical and generally in the center above the pubic bone could be normal in early pregnancy.”
+
+4. Spotting
+
+Having some light pink or brown spotting about a week before your period is due? If you’re wondering “can bleeding be a sign of pregnancy?” the answer is actually yes. It could be what’s called implantation bleeding, one of the early signs of pregnancy.
+
+Spotting happens six to 12 days after conception, when a fertilized egg burrows deep into the lining of your uterus, causing a bit of mild irritation. When it’s happening, it can easily be confused with the onset of your period, so it’s one of those pregnancy symptoms that’s often noticed only in hindsight. “You probably won’t know that the irregular bleeding you had was implantation bleeding until you get that positive pregnancy test and remember that you had some spotting,” Justice says.
+Why does it happen?
+
+It means you’ve got a baby on the way! A few days after conception, the fertilized egg travels down the fallopian tubes and settles in your uterus. There, the egg will attach to the wall of your uterus. Since your uterine lining is rich with blood, a little spotting can often occur and isn’t cause for concern.
+Is it common?
+
+Implantation spotting occurs in about 25 percent of women, according to Justice, so you may or may not encounter it. Remember, every woman is unique and will experience pregnancy symptoms differently.
+What should you do?
+
+Keep your fingers crossed—this could be a good sign! Be sure to take a pregnancy test if your period is late to arrive to determine if your spotting really is an early sign of pregnancy. If it turns out you haven’t conceived, note the date the spotting occurred and which cycle day you were on. Pay close attention to your next few cycles and see if you notice any spotting—mid-cycle bleeding can be a sign of a medical condition that would require a doctor’s diagnosis, so definitely visit your ob-gyn if you notice a pattern.
+
+5. High Basal Body Temperature
+
+If you’ve been charting your basal body temp, you may be privy to one of the subtle signs of pregnancy that many women won’t even notice: a higher than normal reading. When you’re charting, your basal (or waking) temperature peaks when you ovulate, then gradually decreases during the latter part of your cycle until your period begins. But if you get pregnant during the cycle, your basal temperature won’t plummet; instead, it’ll stay high.
+Why does it happen?
+
+Like so many pregnancy symptoms, those pesky pregnancy hormones are to blame yet again. If you don’t get pregnant, your levels of progesterone and estrogen will decrease, signaling your period to begin. But if an egg is fertilized, the opposite happens, and these hormones begin to rapidly rise. Your basal body temp will reflect that rise and you won’t see a dip after ovulation.
+Is it common?
+
+It’s not just common, it’s biology, baby! Progesterone and estrogen are the hormones that sustain a healthy pregnancy. When you’re pregnant, a sustained high basal body temperature is one of the pregnancy symptoms you’re guaranteed to see.
+What should you do?
+
+If you’ve been charting, just keep doing what you’re doing and enjoy seeing those high temps. If you haven’t been tracking it and are trying to conceive, consider starting a basal temperature chart to become more familiar with your cycle. The best time to start your chart is the day your period begins.
+`,
             published: "Jun 3,  2023",
             author: {
                 name: "Sandhya Barathi ",
@@ -67,39 +159,31 @@ With that in mind, here are some general safety tips to consider when exercising
         },
         {
             id: 4,
-            title: "Climbing Stairs for Weight Loss – Expert’s Guide",
+            title: "How I Knew I Was Pregnant—Before I Got a Positive",
             subtitle: "5 Exercises that can be done while climbing stairs",
             category: "Health",
             img : "/images/img4.png",
             description: `
-            1. Skater steps
-For this stair climbing exercise, you need to look at the flight of stairs. Keep your right foot close to the corner of the second step. Next, with your left leg, place it on the other side of the fourth step.
+            The highs and lows of pregnancy tests can be a killer. We all dream of that big fat positive (BFP), but sometimes you can tell the babymakin’ worked well before even taking a test (ugh, my achin’ boobs!). Bumpies on the 1st Trimester board shared how they knew :
 
-Follow this all the way till you climb a flight of stairs. Going down the way you came will count as one set. You need to complete at least 2 sets for this exercise to be effective. To increase the number of calories you burn, you should swing both your arms.
+“All of a sudden my dog smelled horrific even though he was clean and all smells/scents were much stronger." –Wildblue22
 
-2. Stair lunge
+“I had been eating everything in sight! I normally had a pretty good appetite, but when my husband started commenting on my eating saying ‘how can you still be hungry?’ I knew there had to be a reason for it.” – shear22
 
-Another stair climbing exercise that works well is the stair lunge. While your back faces the flight of stairs, you should move your right leg back, until it is on a step.
+“My boobs started hurting and I was so sleepy. I would desperately want a nap at all times of the day, which is weird for me.” – archyperu
 
-As you inhale, start to bend your knees. Make sure your knees don’t go as low as your toes. When you exhale, you should get up and return to the original position. Do at least ten reps on both legs, to experience the benefits of stair lunges.
+“I started gagging while brushing my teeth, the week before I even tested. I just thought ‘well that’s new’ and kept about my business. I also started smelling everything and hating the way certain things smelled.” – ilovenaps
 
-3. Stair push-up
+“My boobs hurt so bad and I noticed little stretch marks starting to form on the side of them. My husband also complained about me being irritated over everything and I would cry to sad songs on my iPod; I was kind of an emotional wreck.” – keni9
 
-For this stair climbing exercise, you need to place your arms on a step. Make sure you extend your body until it enters the plank position. If you feel your core muscles, you are in the right pose. As you inhale, you should start to lower your body until your chest almost touches the stairs.
+“I stopped liking chocolate!” – annya26
 
-The next step is to exhale and bring your body back to its original position. Make sure your hands and shoulders are in the same line. Also, do not let your hips drop, nor change the position of the back and neck.
+“My husband’s Old Spice aftershave started smelling like doughnuts. He smelled soooooo good! Then I noticed that I mysteriously did not have any PMS symptoms when I should have.” – redheadscu
 
-4. Step up
+“I like to enjoy a glass or two of wine every night. I kept feeling sick after having a glass, and it just didn’t taste good to me. Me not liking wine meant that something is going on.” – sascha3
 
-Make sure you look at the flight of stairs while keeping your feet at the distance of your shoulders. As you tighten the core, place the right foot on the step. Make sure you keep the back straight at all times for this stair climbing exercise.
-
-Keep your weight on the right foot, before breathing out and placing your left foot on the same step. Breathe in and keep your right foot to the previous location. Do the same thing with your left foot. You should do this at least ten times (both legs) to experience the benefits of step ups.
-
-5. Varied pace step climbing
-If you are looking for a slightly less intense stair climbing exercise with varied pace, step climbing is the way to go. Not only is it less intense , but you can also use it as a warm-up.
-
-You should start with running up a flight of stairs while looking straight and keeping your shoulders back. When you are on top of the stairs, you should pause and walk down the stairs slowly. This counts as a single set, and you must complete at least 3-5 sets, for it to be effective.
-            `,
+“We were watching American Idol and I was exhausted, falling asleep all the time, I thought I had mono… I suddenly craved a bologna sandwich… which is nuts because I hate processed meat like that!” – jennjep24
+`,
             published: "Jun 10,  2023",
             author: {
                 name: "Harishma",
