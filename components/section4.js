@@ -18,7 +18,7 @@ export default function section4() {
     <section className="container mx-auto md:px-20 py-16">
         <div className="grid lg:grid-cols-2">
             <div className="item">
-                <h1 className="font-bold text-4xl py-12">Business</h1>
+                <h1 className="font-bold text-4xl py-12">Health</h1>
                 <div className="flex flex-col gap-6">
                     {/* posts */}
                     { data[1] ? <Post data={data[1]}></Post> : <></>}
@@ -27,7 +27,7 @@ export default function section4() {
                 </div>
             </div>
             <div className="item">
-                <h1 className="font-bold text-4xl py-12">Travel</h1>
+                <h1 className="font-bold text-4xl py-12">Pregnancy </h1>
                 <div className="flex flex-col gap-6">
                     { data[4] ? <Post data={data[4]}></Post> : <></>}
                     { data[5] ? <Post data={data[5]}></Post> : <></>}
